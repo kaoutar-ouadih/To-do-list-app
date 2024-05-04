@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": "cc20",
+      "title": "build an E-commerce app using Angular",
+      "isCompleted": false
+    },
+    {
+      "id": "c52f",
+      "title": "Finish your portfolio and host it",
+      "isCompleted": false
+    },
+    {
+      "id": "dce9",
+      "title": "Download your cv",
+      "isCompleted": true
+    },
+    {
+      "id": "18db",
+      "title": "Work on more interesting projects",
+      "isCompleted": false
+    },
+    {
+      "id": "ca7a",
+      "title": "build your cv",
+      "isCompleted": true
+    },
+    {
+      "id": "bada",
+      "title": "Make the theme switcher",
+      "isCompleted": true
+    },
+    {
+      "id": "05b9",
+      "title": "Start customizing the portfolio",
+      "isCompleted": false
+    },
+    {
+      "id": "3ab5",
+      "title": "Finish your cv",
+      "isCompleted": true
+    },
+    {
+      "id": "ec43",
+      "title": "buid a to do lis app using angular",
+      "isCompleted": true
+    }
+  ]
+}
